@@ -3,7 +3,6 @@
 This project is a modern and user-friendly real estate website built with React.js. It showcases various properties, their details, and allows users to explore listings, view property information, and contact agents. The website features a responsive design, interactive map integration, and a seamless user experience.
 
 🔗 Live Demo: https://real-state-project-oussama.pages.dev/
-📷 Screenshots: 
 
 ## Features
 
